@@ -3,6 +3,7 @@ import time
 from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.keys import Keys
 
+# Note : Your Have to Downlaod and and Place Driver on the Below Location.
 browser = webdriver.Chrome("C:\Program Files (x86)\Google\Chrome\chromedriver.exe")
 
 
